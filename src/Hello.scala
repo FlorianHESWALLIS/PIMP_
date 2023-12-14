@@ -1,5 +1,5 @@
 object Hello extends App{
 
-println("HELLO WORLD")
+println("HELLO, WORLD")
 
 }
